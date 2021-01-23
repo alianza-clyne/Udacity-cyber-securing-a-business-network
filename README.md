@@ -17,5 +17,5 @@ This template provides you with the high-level steps you’ll need to take as pa
 It’s important that you read through the entire document before securing the system and completing this report.
 
 ## View Project
-I audited Joe's PC using CIS controls and took several steps to secure it. The full project can be viewed [HERE](https://drive.google.com/file/d/16i8AKslSfu5RynWBpCeO9JrNAPTpFijd/view?usp=sharing)
+I audited Joe's PC using CIS controls and took several steps to secure it. The full project can be viewed [HERE](http://bit.ly/Udacity-cyber-p1)
 
