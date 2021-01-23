@@ -1,10 +1,10 @@
 # Udacity Cybersecurity Course #1 Project - Securing a business network for Joe's Auto
 
 ## Learning Objectives:
-● Explain security fundamentals including core security principles, critical security controls, and cybersecurity best practices.
-● Evaluate specific security techniques used to administer a system that meets industry standards and core controls
-● Assess high-level risks, vulnerabilities and attack vectors of a sample system
-● Explain methods for establishing and maintaining the security of a network, computing
+- Explain security fundamentals including core security principles, critical security controls, and cybersecurity best practices.
+- Evaluate specific security techniques used to administer a system that meets industry standards and core controls
+- Assess high-level risks, vulnerabilities and attack vectors of a sample system
+- Explain methods for establishing and maintaining the security of a network, computing
 environment, and application.
 
 
